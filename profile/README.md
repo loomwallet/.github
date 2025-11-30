@@ -1,5 +1,5 @@
 # Loom
 
-The next generation BCH wallet.
+Next gen BCH wallet.
 
 [loom.cash](https://loom.cash)
